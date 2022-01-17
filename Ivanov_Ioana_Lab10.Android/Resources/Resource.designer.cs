@@ -14,7 +14,7 @@ namespace Ivanov_Ioana_Lab10.Droid
 {
 	
 	
-	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "1.0.0.0")]
+	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "12.1.0.11")]
 	public partial class Resource
 	{
 		
@@ -153,6 +153,7 @@ namespace Ivanov_Ioana_Lab10.Droid
 			global::Xamarin.Essentials.Resource.Id.text2 = global::Ivanov_Ioana_Lab10.Droid.Resource.Id.text2;
 			global::Xamarin.Essentials.Resource.Id.time = global::Ivanov_Ioana_Lab10.Droid.Resource.Id.time;
 			global::Xamarin.Essentials.Resource.Id.title = global::Ivanov_Ioana_Lab10.Droid.Resource.Id.title;
+			global::Xamarin.Essentials.Resource.Id.view_tree_lifecycle_owner = global::Ivanov_Ioana_Lab10.Droid.Resource.Id.view_tree_lifecycle_owner;
 			global::Xamarin.Essentials.Resource.Integer.status_bar_notification_info_maxnum = global::Ivanov_Ioana_Lab10.Droid.Resource.Integer.status_bar_notification_info_maxnum;
 			global::Xamarin.Essentials.Resource.Layout.browser_actions_context_menu_page = global::Ivanov_Ioana_Lab10.Droid.Resource.Layout.browser_actions_context_menu_page;
 			global::Xamarin.Essentials.Resource.Layout.browser_actions_context_menu_row = global::Ivanov_Ioana_Lab10.Droid.Resource.Layout.browser_actions_context_menu_row;
@@ -214,6 +215,7 @@ namespace Ivanov_Ioana_Lab10.Droid
 			global::Xamarin.Essentials.Resource.Styleable.GradientColor_android_tileMode = global::Ivanov_Ioana_Lab10.Droid.Resource.Styleable.GradientColor_android_tileMode;
 			global::Xamarin.Essentials.Resource.Styleable.GradientColor_android_type = global::Ivanov_Ioana_Lab10.Droid.Resource.Styleable.GradientColor_android_type;
 			global::Xamarin.Essentials.Resource.Xml.image_share_filepaths = global::Ivanov_Ioana_Lab10.Droid.Resource.Xml.image_share_filepaths;
+			global::Xamarin.Essentials.Resource.Xml.xamarin_essentials_fileprovider_file_paths = global::Ivanov_Ioana_Lab10.Droid.Resource.Xml.xamarin_essentials_fileprovider_file_paths;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_in = global::Ivanov_Ioana_Lab10.Droid.Resource.Animation.abc_fade_in;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_out = global::Ivanov_Ioana_Lab10.Droid.Resource.Animation.abc_fade_out;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::Ivanov_Ioana_Lab10.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
@@ -29636,6 +29638,9 @@ namespace Ivanov_Ioana_Lab10.Droid
 			
 			// aapt resource value: 0x7F110005
 			public const int standalone_badge_offset = 2131820549;
+			
+			// aapt resource value: 0x7F110006
+			public const int xamarin_essentials_fileprovider_file_paths = 2131820550;
 			
 			static Xml()
 			{
